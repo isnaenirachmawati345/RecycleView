@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chapter4RecycleView</string>
+    <string name="nama_text">nama_text</string>
+    <string name="nomor_hp">Nomor Hp</string>
+</resources>
